@@ -20,3 +20,4 @@ path <-  r"(C:\Users\tymme\Dropbox\Studia\Podstawowe_modele_panelowe\Gravity_rds
 gravity <- readRDS(path)
 
 str(gravity)
+
