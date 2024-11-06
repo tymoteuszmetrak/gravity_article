@@ -1,6 +1,5 @@
 # Gravity models revisited
 
-[Polish below]
 
 The repository contains the supplementary code in R used for computations in the econometric article about international trade.
 
